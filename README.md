@@ -1,2 +1,2 @@
 # Excel-Data-Analytics-Projects
-My collection of Excel-based data analysis and dashboard projects.
+My collection of Data Analysis and dashboard projects using EXCEL, Tableau, Power BI, SQL.
