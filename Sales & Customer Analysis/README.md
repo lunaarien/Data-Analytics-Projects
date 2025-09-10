@@ -3,10 +3,12 @@ This project was created as part of the Tata Forage Job Simulation.
 The goal was to analyze sales and customer data, build insights on revenue performance, and design an interactive Tableau dashboard for decision-making.
 
 💡 Key Insights
-  - Revenue Growth peaked during holiday season (Nov–Dec 2011).
-  - UK contributed the highest volume of orders but had weaker retention compared to smaller markets.
-  - Repeat customers generated more revenue per capita than first-time buyers.
-  - Retention dropped significantly after the first month, showing a need for re-engagement campaigns.
+  - Total customers dropped sharply to 55 for the month of December (↓65%), indicating retention and acquisition challenges.
+  - Average sales per customer decreased to ₱741 (↓28%), reflecting lower purchase frequency or value.
+  - Returning customers fell to 48 (↓64%), with retention rate at 18.78% (↓27%), signaling engagement issues.
+  - Revenue peaks in November but drops in December, showing strong seasonal trends.
+  - A small group of top customers and key countries (Netherlands, EIRE, Germany) drive most revenue, highlighting concentration risk.
+  - Cohort and purchase latency analysis show most revenue comes from early repeat buyers; engagement declines after the first month.
 
 🎯 Objectives
 Build an interactive Sales Dashboard to track orders, quantity, and revenue.
