@@ -8,6 +8,14 @@ Objectives:
 4. Enable interactive filtering using slicers for dynamic data exploration.
 5. Highlight key performance indicators (KPIs) such as Total Customers, Average Spending, and High-Value Customers.
 
+Key Insights:
+•	Middle-aged customers are revenue drivers because they show the highest spending across all education levels, likely due to peak earning capacity and established household needs.
+•	Education equals spending power as postgraduates and doctorate holders consistently outspends other education levels, indicating products appeal to higher income, educated demographics.
+•	Massive growth opportunity exists since only 11% of your 2,241 customers are classified as high-value, suggesting significant potential to convert medium-value customers.
+•	Seasonal spending patterns are strong with clear peaks in May and December and a mid-year July dip, indicating holiday and bonus-driven purchasing behavior.
+•	Married customers dominate base at 76% showing products and services strongly appeal to household decision-makers with family-oriented purchasing patterns.
+
+
 Dashboard Features:
 KPI Section
 - Total Customers
